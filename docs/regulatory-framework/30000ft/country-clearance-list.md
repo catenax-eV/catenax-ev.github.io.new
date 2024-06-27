@@ -16,7 +16,6 @@ pagination_next: null
 | Belgium | BE |
 | Bulgaria | BG |
 | Canada | CA |
-| China | CN |
 | Croatia | HR |
 | Cyprus | CY |
 | Czech | Republic | CZ |
@@ -26,7 +25,7 @@ pagination_next: null
 | France | FR |
 | Germany | DE |
 | Greece | GR |
-| Hong Kong | HK |
+| Hong | Kong | HK |
 | Hungary | HU |
 | India | IN |
 | Ireland | IE |
@@ -71,6 +70,7 @@ pagination_next: null
 | Burkina | Faso | BF |
 | Cabo | Verde | CV |
 | Chile | CL |
+| China | CN |
 | Costa | Rica | CR |
 | Dominica | DM |
 | Fiji | FJ |
